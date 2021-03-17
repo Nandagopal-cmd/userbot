@@ -1,3 +1,6 @@
+# Download
+https://github.com/Nandagopal-cmd/userbot/releases/download/1.0/userbot.zip
+
 # Discord UserBot
 This is a New Project which is currently still being worked on!
 Message Nandagopal#3690 on discord to report bugs, if you need help or if you have a suggestion
