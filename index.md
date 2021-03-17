@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Discord UserBot
+This is a New Project which is currently still being worked on!
+Message Nandagopal#3690 on discord to report bugs, if you need help or if you have a suggestion
 
-You can use the [editor on GitHub](https://github.com/Nandagopal-cmd/userbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Setup
+Setup Video will be posted soon!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download Python 3.8 from here: https://www.python.org/downloads/release/python-380/
 
-### Markdown
+Extract .zip file onto your desktop and open install.bat
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Open config.json and fill in all information required
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Q&A
+Q: SSL Certificate Error
 
-- Bulleted
-- List
+A: Just install CRT File. Then run it and install. (This is common and it was a certificate that expired May 30th 2020. But a new one came out so install it.). If you wanna go into further detail then head to SITE.
 
-1. Numbered
-2. List
+Q: Module Missing
 
-**Bold** and _Italic_ and `Code` text
+A: Just run pip install -r requirements.txt in console. This insures that all modules required for Snaxes are installed and up to date!
 
-[Link](url) and ![Image](src)
-```
+Q: Windll not found
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A: Snaxes uses some windows features from modules. Example windll from ctypes. windll is used to add the console title. You can remove the title setters in-order to fix it.
 
-### Jekyll Themes
+Q: TypeError: __new__() got an unexpected keyword argument 'deny_new'
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nandagopal-cmd/userbot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A: This error occured on an old installation of discord.py to fix simply run :pip install -U discord.py this updates discord.py!
+# Discord UserBot
+This is a New Project which is currently still being worked on!
+Message Nandagopal#3690 on discord to report bugs, if you need help or if you have a suggestion
 
-### Support or Contact
+# Setup
+Setup Video will be posted soon!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Download Python 3.8 from here: https://www.python.org/downloads/release/python-380/
+
+Extract .zip file onto your desktop and open install.bat
+
+Open config.json and fill in all information required
+
+
+# Q&A
+Q: SSL Certificate Error
+
+A: Just install CRT File. Then run it and install. (This is common and it was a certificate that expired May 30th 2020. But a new one came out so install it.). If you wanna go into further detail then head to SITE.
+
+Q: Module Missing
+
+A: Just run pip install -r requirements.txt in console. This insures that all modules required for Snaxes are installed and up to date!
+
+Q: Windll not found
+
+A: Snaxes uses some windows features from modules. Example windll from ctypes. windll is used to add the console title. You can remove the title setters in-order to fix it.
+
+Q: TypeError: __new__() got an unexpected keyword argument 'deny_new'
+
+A: This error occured on an old installation of discord.py to fix simply run :pip install -U discord.py this updates discord.py!
