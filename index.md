@@ -1,5 +1,4 @@
-# Download
-https://github.com/Nandagopal-cmd/userbot/releases/download/1.0/userbot.zip
+# [Download](https://github.com/Nandagopal-cmd/userbot/releases/download/1.0/userbot.zip)
 
 # Discord UserBot
 This is a New Project which is currently still being worked on!
